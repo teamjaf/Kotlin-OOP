@@ -1,5 +1,5 @@
 fun main(){
-    var jaf = Person("Mohammad Jafirn", "Hossain")
+    var jaf = Person("Md. Jafirn", "Hossain")
 }
 
 class Person(firstName: String, lastName: String){
